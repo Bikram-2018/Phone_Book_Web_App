@@ -14,7 +14,6 @@ public interface ContactService {
 
 	public String updateContact ( Contact contact );
 
-
     public String deleteContactById ( Integer contactId );
 
 }
